@@ -141,4 +141,4 @@ document.addEventListener('scroll', () => {
   setScrollProgress();
 });
 },{}]},{},["core.js"], null)
-//# sourceMappingURL=/core.56639700.js.map
+//# sourceMappingURL=/beego-static-header/core.56639700.js.map
