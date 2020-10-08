@@ -4,8 +4,9 @@
   "description": "",
   "main": "core.js",
   "scripts": {
-    "dev": "parcel watch index.html --target node --bundle-node-modules & browser-sync start --watch --server 'dist' --files 'dist' --no-notify",
-    "build": "parcel build index.html --target node --bundle-node-modules"
+    "dev": "parcel serve index.html --target node --bundle-node-modules & browser-sync start --watch --server 'docs' --files 'docs' --no-notify",
+    "dev2": "parcel watch index.html --target node --bundle-node-modules --out-dir docs & browser-sync start --watch --server 'docs' --files 'docs' --no-notify",
+    "build": "parcel build index.html --target node --bundle-node-modules --out-dir docs"
   },
   "keywords": [],
   "author": "",

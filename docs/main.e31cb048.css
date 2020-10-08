@@ -201,7 +201,7 @@ main {
   object-fit: contain;
 }
 .header.header--scrolled .header__wrapper {
-  padding: 1.4rem 2rem 1.4rem 2rem;
+  padding: 1rem 2rem 1rem 2rem;
 }
 .header.header--scrolled .header__top {
   margin-bottom: 0;
