@@ -13,7 +13,7 @@
   "dependencies": {
     "bootstrap": "^5.0.0-alpha1",
     "browser-sync": "^2.26.12",
-    "cutleryjs": "^1.9.0",
+    "cutleryjs": "^3.5.4",
     "popper": "^1.0.1",
     "sesam-collapse": "^5.3.2"
   },
