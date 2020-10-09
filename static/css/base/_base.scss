@@ -1,3 +1,11 @@
+html {
+  scroll-snap-type: y proximity;
+
+  body {
+    scroll-snap-align: start;
+  }
+}
+
 * {
   transition: all 0.3s ease;
 }
