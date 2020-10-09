@@ -145,7 +145,7 @@ main {
   color: #001a3b;
 }
 .header__wrapper {
-  padding: 2.4rem 2rem 1.8rem 2rem;
+  padding: 2.4rem 2rem 1.4rem 2rem;
   display: flex;
   flex-direction: column;
 }
