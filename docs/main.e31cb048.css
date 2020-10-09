@@ -183,6 +183,7 @@ main {
 .header__bottom .header__nav nav > ul {
   display: flex;
   align-items: center;
+  padding: 0px;
 }
 .header__bottom .header__nav nav > ul > li {
   position: relative;
