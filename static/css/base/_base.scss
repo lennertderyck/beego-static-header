@@ -1,27 +1,27 @@
 * {
-    transition: all .3s ease;
+  transition: all 0.3s ease;
 }
 
 body {
-    width: 100vw;
-    height: 100vh;
-    line-height: initial;
-    margin: 0;
-    padding: 0;
-    
-    font-family: 'Open Sans', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  line-height: initial;
+  margin: 0;
+  padding: 0;
+
+  font-family: "Open Sans", sans-serif;
 }
 
 img {
-    user-select: none;
-    -webkit-user-drag: none;
-    pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: none;
 }
 
 small {
-    font-size: 70%;
+  font-size: 70%;
 }
 
 main {
-    height: 200vh;
+  height: 500vh;
 }
